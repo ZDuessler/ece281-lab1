@@ -11,8 +11,8 @@
 --| ---------------------------------------------------------------------------
 --|
 --| FILENAME      : thirtyOneDayMonth_tb.vhd (TEST BENCH)
---| AUTHOR(S)     : Capt Dan Johnson, ***Your Name Here***
---| CREATED       : 12/12/2019 Last Modified 06/24/2020
+--| AUTHOR(S)     : Capt Dan Johnson, C3C Zachary Duessler
+--| CREATED       : 12/12/2019 Last Modified 02/12/2024
 --| DESCRIPTION   : This file tests to ensure thirtyOneDayMonthMux works properly
 --|
 --|
